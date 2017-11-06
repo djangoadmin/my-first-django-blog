@@ -25,7 +25,7 @@ SECRET_KEY = '+vpac)edf4qql@6c*2kca(+blu#ukn%ex6y+d4xrmkwl!fqhng'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','mydjangoproject.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','mydjangoblog.pythonanywhere.com']
 
 
 
